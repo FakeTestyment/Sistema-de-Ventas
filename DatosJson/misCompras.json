@@ -1,0 +1,806 @@
+[
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "10",
+        "IDProducto": 41,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Chino Hombre",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 5
+      }
+    ],
+    "FechaCompra": "5/28/2022 3:02:27 AM",
+    "IDCompra": "10",
+    "TotalCompra": 105.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "12",
+        "IDProducto": 62,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Pantalón negro",
+        "PrecioCompra": 30.00,
+        "PrecioVenta": 63.00,
+        "StockProducto": 9
+      }
+    ],
+    "FechaCompra": "5/31/2022 6:36:43 PM",
+    "IDCompra": "12",
+    "TotalCompra": 270.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "345",
+        "IDProducto": 54,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Jeans Skinny",
+        "PrecioCompra": 24.00,
+        "PrecioVenta": 36.00,
+        "StockProducto": 18
+      }
+    ],
+    "FechaCompra": "5/29/2022 12:28:37 AM",
+    "IDCompra": "345",
+    "TotalCompra": 432.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "43",
+        "IDProducto": 43,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Jogger Slim",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 27.00,
+        "StockProducto": 1
+      }
+    ],
+    "FechaCompra": "5/28/2022 4:34:24 AM",
+    "IDCompra": "43",
+    "TotalCompra": 21.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "432",
+        "IDProducto": 53,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Gabardina Slim Mujer",
+        "PrecioCompra": 27.00,
+        "PrecioVenta": 36.00,
+        "StockProducto": 6
+      }
+    ],
+    "FechaCompra": "5/29/2022 12:27:55 AM",
+    "IDCompra": "432",
+    "TotalCompra": 162.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "5",
+        "IDProducto": 42,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Chino Hombre",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 1
+      }
+    ],
+    "FechaCompra": "5/28/2022 4:31:52 AM",
+    "IDCompra": "5",
+    "TotalCompra": 21.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "534",
+        "IDProducto": 58,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "ProductoNuevo",
+        "PrecioCompra": 24.00,
+        "PrecioVenta": 51.00,
+        "StockProducto": 21
+      }
+    ],
+    "FechaCompra": "5/29/2022 3:26:05 AM",
+    "IDCompra": "534",
+    "TotalCompra": 504.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "54",
+        "IDProducto": 64,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Jeans rojo",
+        "PrecioCompra": 27.00,
+        "PrecioVenta": 39.00,
+        "StockProducto": 9
+      }
+    ],
+    "FechaCompra": "5/31/2022 6:40:11 PM",
+    "IDCompra": "54",
+    "TotalCompra": 243.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "543",
+        "IDProducto": 57,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Jeans Skinny",
+        "PrecioCompra": 24.00,
+        "PrecioVenta": 36.00,
+        "StockProducto": 3
+      }
+    ],
+    "FechaCompra": "5/29/2022 2:11:44 AM",
+    "IDCompra": "543",
+    "TotalCompra": 72.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "65",
+        "IDProducto": 63,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Jeans rojo",
+        "PrecioCompra": 27.00,
+        "PrecioVenta": 39.00,
+        "StockProducto": 9
+      }
+    ],
+    "FechaCompra": "5/31/2022 6:37:20 PM",
+    "IDCompra": "65",
+    "TotalCompra": 243.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "a",
+        "IDProducto": 31,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido amarillo",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 6
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:33:55 AM",
+    "IDCompra": "a",
+    "TotalCompra": 132.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "asd",
+        "IDProducto": 24,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Producto Indentado",
+        "PrecioCompra": 46.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 5
+      }
+    ],
+    "FechaCompra": "5/27/2022 6:55:53 AM",
+    "IDCompra": "asd",
+    "TotalCompra": 230.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "asdcc",
+        "IDProducto": 56,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Jogger Slim",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 27.00,
+        "StockProducto": 13
+      }
+    ],
+    "FechaCompra": "5/29/2022 1:52:19 AM",
+    "IDCompra": "asdcc",
+    "TotalCompra": 273.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "asdddddd",
+        "IDProducto": 60,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "b",
+        "PrecioCompra": 6.00,
+        "PrecioVenta": 11.00,
+        "StockProducto": 8
+      }
+    ],
+    "FechaCompra": "5/31/2022 3:20:52 AM",
+    "IDCompra": "asdddddd",
+    "TotalCompra": 48.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "bedg",
+        "IDProducto": 18,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "sudadera",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 7
+      },
+      {
+        "IDVenta": null,
+        "IDCompra": "bedg",
+        "IDProducto": 19,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Zapatos",
+        "PrecioCompra": 28.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 7
+      },
+      {
+        "IDVenta": null,
+        "IDCompra": "bedg",
+        "IDProducto": 20,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido amarillo",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 7
+      }
+    ],
+    "FechaCompra": "5/27/2022 6:48:05 AM",
+    "IDCompra": "bedg",
+    "TotalCompra": 504.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "bfdb",
+        "IDProducto": 48,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Chino Hombre",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 174
+      }
+    ],
+    "FechaCompra": "5/28/2022 3:23:19 PM",
+    "IDCompra": "bfdb",
+    "TotalCompra": 3654.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "COm pra",
+        "IDProducto": 51,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Chino Hombre",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 22
+      }
+    ],
+    "FechaCompra": "5/28/2022 10:07:29 PM",
+    "IDCompra": "COm pra",
+    "TotalCompra": 462.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "COMLFFK",
+        "IDProducto": 52,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Chino Hombre",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 7
+      }
+    ],
+    "FechaCompra": "5/28/2022 10:14:25 PM",
+    "IDCompra": "COMLFFK",
+    "TotalCompra": 147.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "Compra pantalon",
+        "IDProducto": 50,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Chino Hombre",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 28
+      }
+    ],
+    "FechaCompra": "5/28/2022 10:05:00 PM",
+    "IDCompra": "Compra pantalon",
+    "TotalCompra": 588.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "cOMPRAASD",
+        "IDProducto": 49,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Chino Hombre",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 5
+      }
+    ],
+    "FechaCompra": "5/28/2022 8:21:26 PM",
+    "IDCompra": "cOMPRAASD",
+    "TotalCompra": 105.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "CompracamisaAzul",
+        "IDProducto": 61,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "e",
+        "PrecioCompra": 14.00,
+        "PrecioVenta": 46.00,
+        "StockProducto": 10
+      }
+    ],
+    "FechaCompra": "5/31/2022 5:51:28 AM",
+    "IDCompra": "CompracamisaAzul",
+    "TotalCompra": 140.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "ComrpaPrueba",
+        "IDProducto": 45,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Sudadera Mujer Slim Cierre con Capucha",
+        "PrecioCompra": 15.00,
+        "PrecioVenta": 21.00,
+        "StockProducto": 21
+      }
+    ],
+    "FechaCompra": "5/28/2022 7:10:48 AM",
+    "IDCompra": "ComrpaPrueba",
+    "TotalCompra": 315.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "ddd",
+        "IDProducto": 46,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Chino Hombre",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 6
+      },
+      {
+        "IDVenta": null,
+        "IDCompra": "ddd",
+        "IDProducto": 47,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Jogger Slim",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 27.00,
+        "StockProducto": 7
+      }
+    ],
+    "FechaCompra": "5/28/2022 8:04:20 AM",
+    "IDCompra": "ddd",
+    "TotalCompra": 273.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "f",
+        "IDProducto": 34,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Producto Indentado",
+        "PrecioCompra": 46.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 2
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:37:57 AM",
+    "IDCompra": "f",
+    "TotalCompra": 92.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "g",
+        "IDProducto": 33,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido amarillo",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 1
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:37:23 AM",
+    "IDCompra": "g",
+    "TotalCompra": 22.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "gd",
+        "IDProducto": 55,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Jogger Slim",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 27.00,
+        "StockProducto": 6
+      }
+    ],
+    "FechaCompra": "5/29/2022 12:29:35 AM",
+    "IDCompra": "gd",
+    "TotalCompra": 126.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "gdf",
+        "IDProducto": 39,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Camisa Celeste",
+        "PrecioCompra": 24.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 10
+      },
+      {
+        "IDVenta": null,
+        "IDCompra": "gdf",
+        "IDProducto": 40,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Prueba",
+        "PrecioCompra": 46.00,
+        "PrecioVenta": 28.00,
+        "StockProducto": 5
+      }
+    ],
+    "FechaCompra": "5/28/2022 12:42:13 AM",
+    "IDCompra": "gdf",
+    "TotalCompra": 470.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "gfd",
+        "IDProducto": 44,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vaquero gabardina",
+        "PrecioCompra": 15.00,
+        "PrecioVenta": 27.00,
+        "StockProducto": 9
+      }
+    ],
+    "FechaCompra": "5/28/2022 4:57:59 AM",
+    "IDCompra": "gfd",
+    "TotalCompra": 135.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "ggg",
+        "IDProducto": 25,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Sudadera negra",
+        "PrecioCompra": 18.00,
+        "PrecioVenta": 24.00,
+        "StockProducto": 87
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:03:00 AM",
+    "IDCompra": "ggg",
+    "TotalCompra": 1566.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "j",
+        "IDProducto": 28,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido amarillo",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 44
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:27:41 AM",
+    "IDCompra": "j",
+    "TotalCompra": 968.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "k",
+        "IDProducto": 35,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Camisa Azul",
+        "PrecioCompra": 61.00,
+        "PrecioVenta": 98.00,
+        "StockProducto": 5
+      },
+      {
+        "IDVenta": null,
+        "IDCompra": "k",
+        "IDProducto": 36,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Zapatos",
+        "PrecioCompra": 28.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 7
+      }
+    ],
+    "FechaCompra": "5/27/2022 8:13:54 AM",
+    "IDCompra": "k",
+    "TotalCompra": 501.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "l",
+        "IDProducto": 30,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido amarillo",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 27
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:31:14 AM",
+    "IDCompra": "l",
+    "TotalCompra": 594.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "mm",
+        "IDProducto": 27,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido amarillo",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 89
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:26:18 AM",
+    "IDCompra": "mm",
+    "TotalCompra": 1958.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "n",
+        "IDProducto": 29,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido amarillo",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 10
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:28:58 AM",
+    "IDCompra": "n",
+    "TotalCompra": 220.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "ppp",
+        "IDProducto": 59,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Slim Cuello Tipo Polo",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 9.00,
+        "StockProducto": 9
+      }
+    ],
+    "FechaCompra": "5/30/2022 7:28:26 AM",
+    "IDCompra": "ppp",
+    "TotalCompra": 189.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "Prueba1",
+        "IDProducto": 21,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Camisa Azul",
+        "PrecioCompra": 61.00,
+        "PrecioVenta": 98.00,
+        "StockProducto": 6
+      },
+      {
+        "IDVenta": null,
+        "IDCompra": "Prueba1",
+        "IDProducto": 22,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "sudadera",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 33.00,
+        "StockProducto": 14
+      }
+    ],
+    "FechaCompra": "5/27/2022 6:51:40 AM",
+    "IDCompra": "Prueba1",
+    "TotalCompra": 674.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "Prueba12",
+        "IDProducto": 37,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "sudadera3213",
+        "PrecioCompra": 24.00,
+        "PrecioVenta": 36.00,
+        "StockProducto": 29
+      }
+    ],
+    "FechaCompra": "5/27/2022 9:21:53 AM",
+    "IDCompra": "Prueba12",
+    "TotalCompra": 696.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "PruebaStock",
+        "IDProducto": 23,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido amarillo",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 103
+      }
+    ],
+    "FechaCompra": "5/27/2022 6:52:25 AM",
+    "IDCompra": "PruebaStock",
+    "TotalCompra": 2266.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "rew",
+        "IDProducto": 38,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Sudadera negra",
+        "PrecioCompra": 18.00,
+        "PrecioVenta": 24.00,
+        "StockProducto": 2
+      }
+    ],
+    "FechaCompra": "2022-05-28T00:29:14.9472205-05:00",
+    "IDCompra": "rew",
+    "TotalCompra": 36.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "s",
+        "IDProducto": 32,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido amarillo",
+        "PrecioCompra": 22.00,
+        "PrecioVenta": 31.00,
+        "StockProducto": 42
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:36:57 AM",
+    "IDCompra": "s",
+    "TotalCompra": 924.00
+  },
+  {
+    "misProductosCompra": [
+      {
+        "IDVenta": null,
+        "IDCompra": "x",
+        "IDProducto": 26,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Prodcuto123",
+        "PrecioCompra": 19.00,
+        "PrecioVenta": 24.00,
+        "StockProducto": 33
+      }
+    ],
+    "FechaCompra": "5/27/2022 7:04:41 AM",
+    "IDCompra": "x",
+    "TotalCompra": 627.00
+  }
+]

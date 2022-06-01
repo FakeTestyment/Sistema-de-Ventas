@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        * {
+            font-size: 20px;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+        }
+
+        td,
+        th,
+        tr,
+        table {
+            border-top: 1px solid black;
+            border-collapse: collapse;
+        }
+
+            td.producto,
+            th.producto {
+                width: 1000px;
+                max-width: 1000px;
+            }
+
+            td.cantidad,
+            th.cantidad {
+                width: 500px;
+                max-width: 500px;
+                word-break: break-all;
+            }
+
+            td.precio,
+            th.precio {
+                width: 500px;
+                max-width: 500px;
+                word-break: break-all;
+            }
+
+            td.subtotal,
+            th.subtotal {
+                width: 500px;
+                max-width: 500px;
+                word-break: break-all;
+            }
+
+        .centrado {
+            text-align: center;
+            align-content: center;
+        }
+
+        .ticket {
+            width: 600px;
+            max-width: 600px;
+        }
+
+        img {
+            max-width: inherit;
+            width: inherit;
+        }
+    </style>
+</head>
+<body>
+    <div class="ticket">
+        <p class="centrado">Dressy avenue</p>
+        <p class="centrado">@fecha</p>
+
+        <p class="centrado">Cliente</p>
+        <p class="centrado">Cliente ID: @idcliente Nombre: @nombrecliente</p>
+        <p class="centrado">ID de venta: @idventa</p>
+        <br />
+        <table>
+            <thead>
+                <tr>
+                    <th class="producto">Producto</th>
+                    <th class="cantidad">Cantidad</th>
+                    <th class="precio">Precio</th>
+                    <th class="subtotal">Subtotal</th>
+                </tr>
+            </thead>
+            <tbody>
+                @FILAS
+            </tbody>
+        </table>
+        <br />
+        <p class="centrado">Total: @total</p>
+        <p class="centrado">Pagó con: @pagocon</p>
+        <p class="centrado">Cambio: @cambio</p>
+        <br />
+        <p class="centrado">¡Gracias por su compra!</p>
+    </div>
+</body>
+</html>

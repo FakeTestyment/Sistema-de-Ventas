@@ -1,0 +1,219 @@
+[
+  {
+    "misProductosVenta": [
+      {
+        "IDVenta": "12",
+        "IDCompra": null,
+        "IDProducto": 27,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Jeans rojo",
+        "PrecioCompra": 27.00,
+        "PrecioVenta": 39.00,
+        "StockProducto": 9
+      }
+    ],
+    "FechaVenta": "5/31/2022 6:45:33 PM",
+    "IDVenta": "12",
+    "IDCliente": "2",
+    "NombreCliente": null,
+    "MontoCambio": 249.00,
+    "MontoPago": 600.00,
+    "TotalVenta": 56.16,
+    "cliente": null
+  },
+  {
+    "misProductosVenta": [
+      {
+        "IDVenta": "18",
+        "IDCompra": null,
+        "IDProducto": 26,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Pantalón gris",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 57.00,
+        "StockProducto": 5
+      }
+    ],
+    "FechaVenta": "5/31/2022 6:44:52 PM",
+    "IDVenta": "18",
+    "IDCliente": "5",
+    "NombreCliente": null,
+    "MontoCambio": 135.00,
+    "MontoPago": 420.00,
+    "TotalVenta": 45.60,
+    "cliente": null
+  },
+  {
+    "misProductosVenta": [
+      {
+        "IDVenta": "543",
+        "IDCompra": null,
+        "IDProducto": 23,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "e",
+        "PrecioCompra": 36.00,
+        "PrecioVenta": 47.00,
+        "StockProducto": 6
+      }
+    ],
+    "FechaVenta": "5/31/2022 4:09:20 PM",
+    "IDVenta": "543",
+    "IDCliente": "41",
+    "NombreCliente": null,
+    "MontoCambio": 558.00,
+    "MontoPago": 840.00,
+    "TotalVenta": 45.12,
+    "cliente": null
+  },
+  {
+    "misProductosVenta": [
+      {
+        "IDVenta": "6",
+        "IDCompra": null,
+        "IDProducto": 25,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "Vestido verde",
+        "PrecioCompra": 39.00,
+        "PrecioVenta": 63.00,
+        "StockProducto": 10
+      }
+    ],
+    "FechaVenta": "5/31/2022 6:44:05 PM",
+    "IDVenta": "6",
+    "IDCliente": "2",
+    "NombreCliente": null,
+    "MontoCambio": 90.00,
+    "MontoPago": 720.00,
+    "TotalVenta": 100.80,
+    "cliente": null
+  },
+  {
+    "misProductosVenta": [
+      {
+        "IDVenta": "7",
+        "IDCompra": null,
+        "IDProducto": 17,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "c",
+        "PrecioCompra": 1.00,
+        "PrecioVenta": 4.00,
+        "StockProducto": 1
+      }
+    ],
+    "FechaVenta": "5/31/2022 5:10:51 AM",
+    "IDVenta": "7",
+    "IDCliente": "40",
+    "NombreCliente": null,
+    "MontoCambio": 56.00,
+    "MontoPago": 60.00,
+    "TotalVenta": 0.64,
+    "cliente": null
+  },
+  {
+    "misProductosVenta": [
+      {
+        "IDVenta": "74",
+        "IDCompra": null,
+        "IDProducto": 24,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "c",
+        "PrecioCompra": 21.00,
+        "PrecioVenta": 35.00,
+        "StockProducto": 6
+      }
+    ],
+    "FechaVenta": "5/31/2022 4:13:19 PM",
+    "IDVenta": "74",
+    "IDCliente": "38",
+    "NombreCliente": null,
+    "MontoCambio": 30.00,
+    "MontoPago": 240.00,
+    "TotalVenta": 33.60,
+    "cliente": null
+  },
+  {
+    "misProductosVenta": [
+      {
+        "IDVenta": "8",
+        "IDCompra": null,
+        "IDProducto": 18,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "d",
+        "PrecioCompra": 12.00,
+        "PrecioVenta": 18.00,
+        "StockProducto": 2
+      },
+      {
+        "IDVenta": "8",
+        "IDCompra": null,
+        "IDProducto": 19,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "b",
+        "PrecioCompra": 6.00,
+        "PrecioVenta": 11.00,
+        "StockProducto": 2
+      },
+      {
+        "IDVenta": "8",
+        "IDCompra": null,
+        "IDProducto": 20,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "e",
+        "PrecioCompra": 14.00,
+        "PrecioVenta": 46.00,
+        "StockProducto": 2
+      },
+      {
+        "IDVenta": "8",
+        "IDCompra": null,
+        "IDProducto": 21,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "a",
+        "PrecioCompra": 4.00,
+        "PrecioVenta": 6.00,
+        "StockProducto": 2
+      }
+    ],
+    "FechaVenta": "5/31/2022 6:32:33 AM",
+    "IDVenta": "8",
+    "IDCliente": "5",
+    "NombreCliente": null,
+    "MontoCambio": 38.00,
+    "MontoPago": 200.00,
+    "TotalVenta": 25.92,
+    "cliente": null
+  },
+  {
+    "misProductosVenta": [
+      {
+        "IDVenta": "a",
+        "IDCompra": null,
+        "IDProducto": 22,
+        "imagenProducto": null,
+        "NombreImagen": null,
+        "NombreProducto": "b",
+        "PrecioCompra": 6.00,
+        "PrecioVenta": 11.00,
+        "StockProducto": 2
+      }
+    ],
+    "FechaVenta": "5/31/2022 6:41:50 AM",
+    "IDVenta": "a",
+    "IDCliente": "40",
+    "NombreCliente": null,
+    "MontoCambio": 18.00,
+    "MontoPago": 40.00,
+    "TotalVenta": 3.52,
+    "cliente": null
+  }
+]

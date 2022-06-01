@@ -1,0 +1,90 @@
+[
+  {
+    "IDVenta": null,
+    "IDCompra": null,
+    "IDProducto": 1,
+    "imagenProducto": "http://apiventas.somee.com/api/product/img/1",
+    "NombreImagen": null,
+    "NombreProducto": "Jeans rojo",
+    "PrecioCompra": 27.00,
+    "PrecioVenta": 39.00,
+    "StockProducto": 33
+  },
+  {
+    "IDVenta": null,
+    "IDCompra": null,
+    "IDProducto": 2,
+    "imagenProducto": "http://apiventas.somee.com/api/product/img/2",
+    "NombreImagen": null,
+    "NombreProducto": "Chamarra mezclilla",
+    "PrecioCompra": 27.00,
+    "PrecioVenta": 42.00,
+    "StockProducto": 12
+  },
+  {
+    "IDVenta": null,
+    "IDCompra": null,
+    "IDProducto": 3,
+    "imagenProducto": "http://apiventas.somee.com/api/product/img/3",
+    "NombreImagen": null,
+    "NombreProducto": "Vestido verde",
+    "PrecioCompra": 39.00,
+    "PrecioVenta": 63.00,
+    "StockProducto": 8
+  },
+  {
+    "IDVenta": null,
+    "IDCompra": null,
+    "IDProducto": 4,
+    "imagenProducto": "http://apiventas.somee.com/api/product/img/4",
+    "NombreImagen": null,
+    "NombreProducto": "Pantalón gris",
+    "PrecioCompra": 21.00,
+    "PrecioVenta": 60.00,
+    "StockProducto": 14
+  },
+  {
+    "IDVenta": null,
+    "IDCompra": null,
+    "IDProducto": 5,
+    "imagenProducto": "http://apiventas.somee.com/api/product/img/5",
+    "NombreImagen": null,
+    "NombreProducto": "Camisa manga corta negra",
+    "PrecioCompra": 21.00,
+    "PrecioVenta": 42.00,
+    "StockProducto": 15
+  },
+  {
+    "IDVenta": null,
+    "IDCompra": null,
+    "IDProducto": 6,
+    "imagenProducto": "http://apiventas.somee.com/api/product/img/6",
+    "NombreImagen": null,
+    "NombreProducto": "Sudadera mujer",
+    "PrecioCompra": 51.00,
+    "PrecioVenta": 69.00,
+    "StockProducto": 36
+  },
+  {
+    "IDVenta": null,
+    "IDCompra": null,
+    "IDProducto": 7,
+    "imagenProducto": "http://apiventas.somee.com/api/product/img/7",
+    "NombreImagen": null,
+    "NombreProducto": "Blusa blanca flores",
+    "PrecioCompra": 39.00,
+    "PrecioVenta": 51.00,
+    "StockProducto": 12
+  },
+  {
+    "IDVenta": null,
+    "IDCompra": null,
+    "IDProducto": 8,
+    "imagenProducto": "http://apiventas.somee.com/api/product/img/8",
+    "NombreImagen": null,
+    "NombreProducto": "Jeans rotos",
+    "PrecioCompra": 30.00,
+    "PrecioVenta": 63.00,
+    "StockProducto": 18
+  }
+]

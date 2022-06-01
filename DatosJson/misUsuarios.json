@@ -1,0 +1,56 @@
+[
+  {
+    "Contraseña": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+    "Rol": 1,
+    "mensaje": null,
+    "Id": 1,
+    "Nombre": "a",
+    "Correo": "a",
+    "Telefono": null
+  },
+  {
+    "Contraseña": "b77e9281e0c6ee78bf2815e80ca5b2a635b0b0848c3e04f8f01093c89354d87e",
+    "Rol": 1,
+    "mensaje": null,
+    "Id": 2,
+    "Nombre": "IvanV",
+    "Correo": "ivann@gmail.com",
+    "Telefono": null
+  },
+  {
+    "Contraseña": "8c4fd8b2c24ffcc223dbf09088bd79734e8404cd4d9e90fc418ecb490622d1ca",
+    "Rol": 1,
+    "mensaje": null,
+    "Id": 3,
+    "Nombre": "Alexis",
+    "Correo": "alexis@gmail.com",
+    "Telefono": null
+  },
+  {
+    "Contraseña": "0baff97ff722b0be472c1ff5a1edabf7cefb089d0575794975c3007989327efa",
+    "Rol": 0,
+    "mensaje": null,
+    "Id": 4,
+    "Nombre": "Empleado",
+    "Correo": "empleado@gmail.com",
+    "Telefono": null
+  },
+  {
+    "Contraseña": "c9fd92c735c7609969a0ab48b6dc2fda85a06e135196571c06708222baf5a2e7",
+    "Rol": 0,
+    "mensaje": null,
+    "Id": 5,
+    "Nombre": "Rodrigo",
+    "Correo": "rodrv@gmail.com",
+    "Telefono": null
+  },
+  {
+    "Contraseña": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "Rol": 1,
+    "mensaje": null,
+    "Id": 6,
+    "Nombre": "admin",
+    "Correo": "admin@gmail.com",
+    "Telefono": null
+  }
+]
